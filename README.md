@@ -4,7 +4,7 @@ App to manage ERPNext Item, Barcode Numbers, and Print it in custom Format
 
 #### How to Install
 ```
-bench get-app https://github.com/ahmadpak/erpnext_quota
+bench get-app https://github.com/mohamedesmail235/generate_barcode
 bench --site *site_name* install-app generate_barcode
 ```
 ### Usage
